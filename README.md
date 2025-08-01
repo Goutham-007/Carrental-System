@@ -3,7 +3,6 @@
 A full-stack web application for car rentals, built with React (frontend) and Spring Boot (backend)
 It supports user and admin roles, secure login, car bookings, and car listings with images.
 
-
 Tech Stack
 
 Frontend: React, Vite, Material UI

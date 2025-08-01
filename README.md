@@ -45,10 +45,12 @@ npm run dev
 Folder Structure
 
 Carrental-System/
-├── backend/
-│   └── carrental/   # Spring Boot app
-└── frontend/
-    └── carrental/   # React app
-```bash
+backend
+|
+carrental/   # Spring Boot app
+
+frontend
+|
+carrental/   # React app
 cd backend/carrental
 ./mvnw spring-boot:run

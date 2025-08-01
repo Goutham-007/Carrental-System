@@ -38,8 +38,9 @@ Frontend will run at: http://localhost:5173
 
 Folder Structure
 
-Carrental-System/
-│
-├── Backend/       → Spring Boot backend (REST APIs, JWT, DB)
-└── Frontend/      → React frontend (UI & API integration)
+Carrental-System
+
+ Backend       → Spring Boot backend (REST APIs, JWT, DB)
+ 
+ Frontend/      → React frontend (UI & API integration)
 

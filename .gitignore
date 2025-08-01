@@ -1,0 +1,22 @@
+# === FRONTEND ===
+Frontend/node_modules
+Frontend/dist
+Frontend/.DS_Store
+
+# === BACKEND ===
+Backend/target
+Backend/*.log
+Backend/.DS_Store
+
+# === GENERAL IDE / OS FILES ===
+*.iml
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# === LOGS / TEMP FILES ===
+*.log
+*.tmp
+*.bak
+*.swp

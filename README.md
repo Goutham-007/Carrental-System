@@ -49,8 +49,7 @@ backend
 |
 carrental/   # Spring Boot app
 
+
 frontend
 |
 carrental/   # React app
-cd backend/carrental
-./mvnw spring-boot:run

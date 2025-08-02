@@ -47,6 +47,20 @@ Carrental-System
  Backend       → Spring Boot backend (REST APIs, JWT, DB)
  
  Frontend/      → React frontend (UI & API integration)
+ 
+ API Endpoints
+| Method | Endpoint                  | Description                   | Role       |
+| ------ | ------------------------- | ----------------------------- | ---------- |
+| POST   | `/api/auth/login`         | User/admin login              | Public     |
+| POST   | `/api/auth/register`      | User registration             | Public     |
+| GET    | `/api/cars`               | Get all available cars        | USER/ADMIN |
+| POST   | `/api/bookings`           | Book a car                    | USER       |
+| GET    | `/api/bookings/user/{id}` | Get bookings for a user       | USER       |
+| GET    | `/api/bookings`           | Get all bookings (admin only) | ADMIN      |
+| POST   | `/api/cars`               | Add a new car                 | ADMIN      |
+| DELETE | `/api/cars/{id}`          | Delete a car                  | ADMIN      |
+| PUT    | `/api/cars/{id}`          | Update car details            | ADMIN      |
+
 
  Snapshots
 

@@ -48,3 +48,34 @@ Carrental-System
  
  Frontend/      → React frontend (UI & API integration)
 
+ Snapshots
+
+ Home Page
+ <img width="1913" height="878" alt="image" src="https://github.com/user-attachments/assets/ef1de11a-cf70-4a93-8185-c519ce85fc35" />
+
+ Register
+ <img width="1910" height="898" alt="image" src="https://github.com/user-attachments/assets/873e7bc8-4188-43ba-9fb7-bb20a69afdef" />
+
+ Login
+ <img width="1911" height="875" alt="image" src="https://github.com/user-attachments/assets/2f2b1358-0205-4829-9b3d-418b2dbd8e74" />
+ 
+ Admin Page
+ <img width="1917" height="892" alt="image" src="https://github.com/user-attachments/assets/708efaff-37bd-4a0b-ac21-1a853de0f62f" />
+
+ Admin bookings view
+ <img width="1919" height="426" alt="image" src="https://github.com/user-attachments/assets/0941f330-d4b5-4278-b4a4-55dc06a108f2" />
+
+ User booking
+ <img width="1902" height="790" alt="image" src="https://github.com/user-attachments/assets/2f759b1f-72c5-4436-9b3d-2b157d648327" />
+
+ User booking view
+ <img width="1912" height="478" alt="image" src="https://github.com/user-attachments/assets/db4962ff-c9df-44a7-93d4-1ff399ab77a7" />
+
+
+
+
+
+
+ 
+
+

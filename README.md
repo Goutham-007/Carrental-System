@@ -2,6 +2,10 @@
 
 A full-stack Car Rental platform built with Spring Boot and React, enabling users to browse, book, and manage car rentals with authentication and admin control.
 
+Author
+
+J Goutham Rak - (" ")
+
 Tech Stack
 
 Backend:Spring Boot (Java), Spring Security, JWT, REST APIs

@@ -4,7 +4,7 @@ A full-stack Car Rental platform built with Spring Boot and React, enabling user
 
 Author
 
-J Goutham Rak - (" ")
+J Goutham Raj 
 
 Tech Stack
 

@@ -15,7 +15,7 @@ import io.jsonwebtoken.security.Keys;
 @Component
 public class JwtUtil {
 
-    private static final String SECRET_KEY = "a2V5a2V5a2V5a2V5a2V5a2V5a2V5a2V5a2V5a2V5a2V5a2V5a2V5a2U";
+    private static final String SECRET_KEY = "JWT_SECRET_KEY";
     private static final long EXPIRATION_TIME = 1000 * 60 * 60 * 10;
 
     private Key getSigningKey() {
